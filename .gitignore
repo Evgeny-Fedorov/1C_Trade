@@ -1,0 +1,15 @@
+
+*.log
+*.tmp
+*.cfu
+*.cfl
+*.txt
+!README.md
+
+
+Thumbs.db
+.DS_Store
+
+
+.vscode/
+.idea/
